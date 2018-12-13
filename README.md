@@ -5,7 +5,7 @@ UT Austin  | Project 2 \
 v1.0 \
 Orig. Deployment - December 12, 2018
 
-### Idea:
+### Overview
  Gamers have to sell their used games to GameStop or BestBuy lose on the trade in value when the retailer turns around and sells it for a profit.  Platform to trade video game software with gamers within a certain distance from your house. This application will allow gamers to sell or buy games at a fair price and take out the middle man.   
 
 ### Prototype
