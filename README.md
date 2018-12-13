@@ -44,13 +44,35 @@ APIs
 Technology Stack
 * Node/Express
 * Passport.js for authentication 
-* MySQL and Sequelize for ORM
+* MySQL
+* Sequelize for ORM for handling POST/GET requests to mySQL/JAWS_DB
 * Deployed through Heroku
 * Google Maps API for geolocation
 * SVG images and animations
+* Axios - Promise based HTTP client for the browser and node.js
+  * Features
+  * Make XMLHttpRequests from the browser
+  * Make http requests from node.js
+  * Supports the Promise API
+  * Intercept request and response
+  * Transform request and response data
+  * Cancel requests
+  * Automatic transforms for JSON data
+  * Client side support for protecting against XSRF 
+  
+* npm packages
+* Passport.js - middleware for node that handles user authentication and works with express apps.
+* Express - web framework, routing, redirection and caching, improves the efficiency of how app runs.
+* Handlebars
+     
+
 * Bootstrap v4 - <https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css> \
 * Material Design for Bootstrap 4 - <https://mdbootstrap.com/material-design-for-bootstrap/> \
 * jQuery 3.x - <http://code.jquery.com/jquery-3.3.1.min.js> 
+
+
+
+
 
 ### Original Contributors:
 Jason Jia \
