@@ -17,6 +17,7 @@ https://infinite-forest-31380.herokuapp.com/
 
 ![Demo](https://github.com/Didi1081/Didi1081.github.io/blob/master/images/gameexchange.gif)
 
+
 ### Prototype
 
 web 1920
@@ -71,11 +72,8 @@ Technology Stack
 * jQuery 3.x - <http://code.jquery.com/jquery-3.3.1.min.js> 
 
 
-
-
-
 ### Original Contributors:
-Jason Jia \
+Jason Jia 
 Miguel Trujillo  
 Didi Ramsamooj 
 
